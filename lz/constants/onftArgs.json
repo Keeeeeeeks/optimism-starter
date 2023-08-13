@@ -1,0 +1,14 @@
+{
+  "goerli": {
+    "startMintId": 1,
+    "endMintId": 10
+  },
+  "optimism-goerli": {
+    "startMintId": 11,
+    "endMintId": 20
+  },
+  "base-goerli": {
+    "startMintId": 21,
+    "endMintId": 30
+  }
+}
