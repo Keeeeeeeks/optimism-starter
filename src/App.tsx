@@ -1,6 +1,6 @@
 import { ConnectButton } from "@rainbow-me/rainbowkit";
 import { useAccount } from "wagmi";
-
+import { Passport } from "./components";
 import { Attestor } from "./components";
 
 export function App() {
@@ -18,12 +18,12 @@ export function App() {
       <ConnectButton />
 
       <h2>Your PassaPorta:</h2>
-      <img></img>
 
       {isConnected && (
         <>
           <hr />
           <Attestor />
+          <Passport />
           <hr />
         </>
       )}
