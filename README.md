@@ -1,18 +1,14 @@
 <div align="center">
-  <a href="https://optimism.io"><img alt="Optimism" src="https://raw.githubusercontent.com/ethereum-optimism/brand-kit/main/assets/svg/OPTIMISM-R.svg" width=320></a>
+  <a>PORTAS: Your Gateway to Web3 </a>
   <br />
   <br />
 </div>
 
-This is a [Optimism](https://github.com/ethereum-optimism) + [wagmi](https://wagmi.sh) + [Foundry](https://book.getfoundry.sh/) + [Rainbowkit](https://www.rainbowkit.com/) + [Vite](https://vitejs.dev/) project originally bootstrapped with [`create-wagmi`](https://github.com/wagmi-dev/wagmi/tree/main/packages/create-wagmi) built with ❤️ for hackers.
-
 ## Who is this for?
 
-This starter is a great choice for any of the following groups:
+Portas is a cosmetic gateway to web3. It allows you to mint Portas, or 3D card representations of what you're doing onchain. The cards will have stickers that function as attestations of those onchain actions. From bridging to Base, to being a Zora creator, to taking part in OP Superchain governance, there is no limit to what can be displayed as proof of participation.
 
-- Hackers hacking on [Optimism](https://www.optimism.io/)
-- Hackers hacking on the [Attestation Station](https://community.optimism.io/docs/identity/build/)
-- Hackers interested in using [the most modern and robust web3 full stack development stack](https://twitter.com/gakonst/status/1630038261941796866)
+This is a [Optimism](https://github.com/ethereum-optimism) + [wagmi](https://wagmi.sh) + [Foundry](https://book.getfoundry.sh/) + [Rainbowkit](https://www.rainbowkit.com/) + [Vite](https://vitejs.dev/) project originally bootstrapped with [`create-wagmi`](https://github.com/wagmi-dev/wagmi/tree/main/packages/create-wagmi). built with ❤️ for hackers.
 
 ## Getting Started
 
